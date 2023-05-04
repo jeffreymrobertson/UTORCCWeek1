@@ -2,8 +2,8 @@
 Module 1 Challenge
 
 # Contents
-##Crowdfunding analysis.xslx
+#Crowdfunding analysis.xslx
 
-##Module 1 Challenge Written Report.docx
+#Module 1 Challenge Written Report.docx
 
 By Jeffrey Robertson
